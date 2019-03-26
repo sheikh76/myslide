@@ -1589,3 +1589,7 @@ body {
 
 .zoomed .reveal .roll span:after {
   visibility: hidden; }
+
+  html.img-right div.slide-background.present {
+    background-position: right;
+}
